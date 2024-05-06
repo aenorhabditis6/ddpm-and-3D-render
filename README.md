@@ -1,2 +1,2 @@
 # ddpm-and-3D-render-for-summer
-Just trying to finish the pre-req!!
+Dataset from Kaggle with 50 cat images. 
